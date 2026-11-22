@@ -1,0 +1,24 @@
+{
+  "name": "Dapur Gadong",
+  "short_name": "Dapur Gadong",
+  "description": "Order authentic Bruneian home-cooked food via WhatsApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fef7ee",
+  "theme_color": "#782a12",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
