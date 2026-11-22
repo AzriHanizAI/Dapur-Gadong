@@ -16,5 +16,10 @@ Home-based food vendors, cafes, and Instagram sellers in Brunei waste hours ever
 * Cafes, bakeries, and pop-up stalls
 * Instagram boutiques and local online shops
 
+## Tech Stack
+* **Frontend:** React, TypeScript, Tailwind CSS (Progressive Web App / Mobile-First UI)
+* **Backend & Database:** Supabase (PostgreSQL database for product catalog, order logs, and receipt storage)
+* **Integrations:** WhatsApp (`wa.me`) Deep-Linking & Local Bank QR Payment Flow
+
 ---
 *Built by Azri Haniz — **FlowEdge AI Enterprise** (Custom Ordering Apps & Business Automation in Brunei)*
